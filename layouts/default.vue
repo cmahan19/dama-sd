@@ -77,7 +77,7 @@
               <v-icon>mdi-facebook</v-icon>
             </v-list-item-icon>
             <v-list-item-content>
-              <a href="https://www.facebook.com/my-company-page">Facebook</a>
+              <a href="https://www.facebook.com/dama.south.dakota/" target="_blank">Facebook</a>
             </v-list-item-content>
           </v-list-item>
           <v-list-item>
@@ -85,7 +85,7 @@
               <v-icon>mdi-twitter</v-icon>
             </v-list-item-icon>
             <v-list-item-content>
-              <a href="https://www.twitter.com/my-company-page">Twitter</a>
+              <a href="https://www.twitter.com/DAMASouthDakota" target="_blank">Twitter</a>
             </v-list-item-content>
           </v-list-item>
           <v-list-item>
@@ -93,7 +93,7 @@
               <v-icon>mdi-linkedin</v-icon>
             </v-list-item-icon>
             <v-list-item-content>
-              <a href="https://www.linkedin.com/company/my-company">LinkedIn</a>
+              <a href="https://www.linkedin.com/groups/14303297" target="_blank">LinkedIn</a>
             </v-list-item-content>
           </v-list-item>
         </v-list>
@@ -144,7 +144,7 @@ export default {
       miniVariant: false,
       right: true,
       rightDrawer: false,
-      title: 'DAMA-South Dakota'
+      title: 'DAMA South Dakota Forming Chapter'
     }
   }
 }
